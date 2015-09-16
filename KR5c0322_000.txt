@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 00:56:05.962731
+#+TITLE: 還金述
+#+PROPERTY: DZID  DZ0922
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，19—285 一卷 洞神部眾術類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
